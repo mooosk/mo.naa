@@ -52,7 +52,9 @@
         .dates:nth-child(1) { animation-delay: 1s; }
         .dates:nth-child(2) { animation-delay: 2s; }
         .dates:nth-child(3) { animation-delay: 3s; }
-
+#naa {
+color: rgb(21, 255, 0);
+}
         .input-box {
             margin-top: 20px;
         }
@@ -101,7 +103,7 @@
         <div class="dates">2024/11/13</div>
 
         <div class="input-box">
-            <textarea placeholder="اكتب شيئًا خاصًا هنا...">ممنوع الغزل</textarea>
+            <textarea placeholder="اكتب شيئًا خاصًا هنا..." id="naa">Я люблю тебя💞😍</textarea>
         </div>
     </div>
 
