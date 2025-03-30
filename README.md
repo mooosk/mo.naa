@@ -97,13 +97,13 @@ color: rgb(21, 255, 0);
     <h1>Mo.Na</h1>
 
     <div class="container">
-        <img src="https://source.unsplash.com/600x400/?couple,hug" alt="عم عصب كتييييييييييير صايررررر روقينييي">
+        <img src="https://source.unsplash.com/600x400/?couple,hug" alt="راسي وجعنييي الله يسامحك بس">
         <div class="dates">2004/8/2</div>
         <div class="dates">2005/12/24</div>
         <div class="dates">2024/11/13</div>
 
         <div class="input-box">
-            <textarea placeholder="اكتب شيئًا خاصًا هنا..." id="naa">Я люблю тебя💞😍</textarea>
+            <textarea placeholder="😒😒😒😒" id="naa"></textarea>
         </div>
     </div>
 
@@ -111,7 +111,7 @@ color: rgb(21, 255, 0);
         function createFloatingElement(type) {
             const element = document.createElement("div");
             element.classList.add(type);
-            element.innerHTML = type === "hearts" ? "❤" : "🌸";
+            element.innerHTML = type === "hearts" ? "😒😒😡" : "😡😒😡" ;
             document.body.appendChild(element);
 
             let startX = Math.random() * window.innerWidth;
