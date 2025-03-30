@@ -116,15 +116,15 @@ color: rgb(21, 255, 0);
 
             let startX = Math.random() * window.innerWidth;
             let startY = window.innerHeight;
-            let duration = Math.random() * 3 + 2;
+            let duration = Math.random() * 20 + 12;
 
             element.style.left = startX + "px";
-            element.style.top = startY + "px";
+            element.style.top = startY + "100 px";
             element.style.animationDuration = duration + "s";
 
             setTimeout(() => {
                 element.remove();
-            }, duration * 1000);
+            }, duration * 10000);
         }
 
         setInterval(() => createFloatingElement("hearts"), 800);
