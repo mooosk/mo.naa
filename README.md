@@ -97,7 +97,7 @@ color: rgb(21, 255, 0);
     <h1>Mo.Na</h1>
 
     <div class="container">
-        <img src="https://source.unsplash.com/600x400/?couple,hug" alt="يااااخ محووود الاحثنيين">
+        <img src="https://source.unsplash.com/600x400/?couple,hug" alt="عم عصب كتييييييييييير صايررررر روقينييي">
         <div class="dates">2004/8/2</div>
         <div class="dates">2005/12/24</div>
         <div class="dates">2024/11/13</div>
